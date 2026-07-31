@@ -1,2 +1,7 @@
 Collaboration Demo Project
 Version 1.0
+
+# Versioning here is standard Major.Minor[.Patch]
+# Patch is not visible if there is no patch.
+# If the minor version is odd then its beta and if even then its a release
+# so 1.1.0 or 1.1 is beta and 1.2.1 is release with 1 patch
