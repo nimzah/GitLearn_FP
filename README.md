@@ -9,4 +9,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## LICENSE
 The project is unlicensed so we are happy to say you can use it for any purpose
-with no restrictions till we change the license someday. we will change it later.
+with no restrictions and it will be unlicensed forever.
