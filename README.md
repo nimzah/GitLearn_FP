@@ -6,3 +6,7 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Open an issue
 - Create a branch
 - Submit a pull request
+
+## LICENSE
+The project is unlicensed so we are happy to say you can use it for any purpose
+with no restrictions till we change the license someday.
